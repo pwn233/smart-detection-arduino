@@ -29,7 +29,6 @@ void loop() {
   } else {
     digitalWrite(LED_PIN, LOW);
   }
-  
   delay(1000);
 }
 long microsecondsToCentimeters(long microseconds) {
